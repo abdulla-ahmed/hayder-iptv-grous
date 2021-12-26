@@ -1,0 +1,613 @@
+#EXTM3U
+#EXTINF:-1,BeinSport 1 LW
+http://stream.shabakaty.com:6001/sport/ch1/ch1_240.m3u8
+#EXTINF:-1,BeinSport 2 LW
+http://stream.shabakaty.com:6001/sport/ch2/ch2_240.m3u8
+#EXTINF:-1,BeinSport 3 LW
+http://stream.shabakaty.com:6001/sport/ch3/ch3_240.m3u8
+#EXTINF:-1,BeinSport 4 LW
+http://stream.shabakaty.com:6001/sport/ch4/ch4_240.m3u8
+#EXTINF:-1,BeinSport 5 LW
+http://stream.shabakaty.com:6001/sport/ch5/ch5_240.m3u8
+#EXTINF:-1,BeinSport 6 LW
+http://stream.shabakaty.com:6001/sport/ch6/ch6_240.m3u8
+#EXTINF:-1,BeinSport 7 LW
+http://stream.shabakaty.com:6001/sport/ch7/ch7_240.m3u8
+#EXTINF:-1,BeinSport 8 LW
+http://stream.shabakaty.com:6001/sport/ch8/ch8_240.m3u8
+#EXTINF:-1,BeinSport 9 LW
+http://stream.shabakaty.com:6001/sport/ch9/ch9_240.m3u8
+#EXTINF:-1,BeinSport 10 LW
+http://stream.shabakaty.com:6001/sport/ch10/ch10_240.m3u8
+#EXTINF:-1,BeinSport 11 LW
+http://stream.shabakaty.com:6001/sport/ch11/ch11_240.m3u8
+#EXTINF:-1,BeinSport 12 LW
+http://stream.shabakaty.com:6001/sport/ch12/ch12_240.m3u8
+#EXTINF:-1,BeinSport 13 LW
+http://stream.shabakaty.com:6001/sport/ch13/ch13_240.m3u8
+#EXTINF:-1,OSN WWW LW
+http://stream.shabakaty.com:6001/sport/ch14/ch14_240.m3u8
+#EXTINF:-1,Alkass 1 LW
+http://stream.shabakaty.com:6001/sport/ch15/ch15_240.m3u8
+#EXTINF:-1,Alkass 2 LW
+http://stream.shabakaty.com:6001/sport/ch16/ch16_240.m3u8
+#EXTINF:-1,Alkass 3 LW
+http://stream.shabakaty.com:6001/sport/ch17/ch17_240.m3u8
+#EXTINF:-1,Alkass 4 LW
+http://stream.shabakaty.com:6001/sport/ch18/ch18_240.m3u8
+#EXTINF:-1,Alkass 5 LW
+http://stream.shabakaty.com:6001/sport/ch19/ch19_240.m3u8
+#EXTINF:-1,BeinSport LW
+http://stream.shabakaty.com:6001/sport/ch20/ch20_240.m3u8
+#EXTINF:-1,ADhabi 1 LW
+http://stream.shabakaty.com:6001/sport/ch21/ch21_240.m3u8
+#EXTINF:-1,ADhabi 2 LW
+http://stream.shabakaty.com:6001/sport/ch22/ch22_240.m3u8
+#EXTINF:-1,OSN Movies LW
+http://stream.shabakaty.com:6001/movies/ch1/ch1_240.m3u8
+#EXTINF:-1,OSN Comedy LW
+http://stream.shabakaty.com:6001/movies/ch2/ch2_240.m3u8
+#EXTINF:-1,OSN Yahala LW
+http://stream.shabakaty.com:6001/movies/ch3/ch3_240.m3u8
+#EXTINF:-1,OSN Variety LW
+http://stream.shabakaty.com:6001/movies/ch4/ch4_240.m3u8
+#EXTINF:-1,Star Movies LW
+http://stream.shabakaty.com:6001/movies/ch5/ch5_240.m3u8
+#EXTINF:-1,OSN Thriller LW
+http://stream.shabakaty.com:6001/movies/ch6/ch6_240.m3u8
+#EXTINF:-1,OSN First LW
+http://stream.shabakaty.com:6001/movies/ch7/ch7_240.m3u8
+#EXTINF:-1,Bein Movie 1 LW
+http://stream.shabakaty.com:6001/movies/ch8/ch8_240.m3u8
+#EXTINF:-1,Bein Movie 2 LW
+http://stream.shabakaty.com:6001/movies/ch9/ch9_240.m3u8
+#EXTINF:-1,Bein Movie 3 LW
+http://stream.shabakaty.com:6001/movies/ch10/ch10_240.m3u8
+#EXTINF:-1,Bein Movie 4 LW
+http://stream.shabakaty.com:6001/movies/ch11/ch11_240.m3u8
+#EXTINF:-1,Star World LW
+http://stream.shabakaty.com:6001/movies/ch12/ch12_240.m3u8
+#EXTINF:-1,OSN Movie 1 LW
+http://stream.shabakaty.com:6001/movies/ch13/ch13_240.m3u8
+#EXTINF:-1,OSN Movie 2 LW
+http://stream.shabakaty.com:6001/movies/ch14/ch14_240.m3u8
+#EXTINF:-1,OSN Movie 3 LW
+http://stream.shabakaty.com:6001/movies/ch15/ch15_240.m3u8
+#EXTINF:-1,MBC Max LW
+http://stream.shabakaty.com:6001/movies/ch16/ch16_240.m3u8
+#EXTINF:-1,MBC Action LW
+http://stream.shabakaty.com:6001/movies/ch17/ch17_240.m3u8
+#EXTINF:-1,OSN Movie LW
+http://stream.shabakaty.com:6001/movies/ch18/ch18_240.m3u8
+#EXTINF:-1,MBC2 LW
+http://stream.shabakaty.com:6001/movies/ch19/ch19_240.m3u8
+#EXTINF:-1,OSN Premire LW
+http://stream.shabakaty.com:6001/movies/ch20/ch20_240.m3u8
+#EXTINF:-1,Rotana LW
+http://stream.shabakaty.com:6001/movies/ch21/ch21_240.m3u8
+#EXTINF:-1,OSN Movie LW
+http://stream.shabakaty.com:6001/movies/ch22/ch22_240.m3u8
+#EXTINF:-1,OSN Family LW
+http://stream.shabakaty.com:6001/movies/ch23/ch23_240.m3u8
+#EXTINF:-1,Cinema 1 LW
+http://stream.shabakaty.com:6001/movies/ch24/ch24_240.m3u8
+#EXTINF:-1,Cinema 2 LW
+http://stream.shabakaty.com:6001/movies/ch25/ch25_240.m3u8
+#EXTINF:-1,DMC Drama LW
+http://stream.shabakaty.com:6001/series/ch1/ch1_240.m3u8
+#EXTINF:-1,OSN Alaola LW
+http://stream.shabakaty.com:6001/series/ch2/ch2_240.m3u8
+#EXTINF:-1,MBC Drama LW
+http://stream.shabakaty.com:6001/series/ch3/ch3_240.m3u8
+#EXTINF:-1,Bein Series LW
+http://stream.shabakaty.com:6001/series/ch4/ch4_240.m3u8
+#EXTINF:-1,FOX LW
+http://stream.shabakaty.com:6001/series/ch5/ch5_240.m3u8
+#EXTINF:-1,ART Hekayat LW
+http://stream.shabakaty.com:6001/series/ch6/ch6_240.m3u8
+#EXTINF:-1,Bein Drama 1 LW
+http://stream.shabakaty.com:6001/series/ch7/ch7_240.m3u8
+#EXTINF:-1,Bein Drama 2 LW
+http://stream.shabakaty.com:6001/series/ch8/ch8_240.m3u8
+#EXTINF:-1,OSN First HD
+http://stream.shabakaty.com:6001/series/ch9/ch9_240.m3u8
+#EXTINF:-1,Rotana Drama LW
+http://stream.shabakaty.com:6001/series/ch10/ch10_240.m3u8
+#EXTINF:-1,FX LW
+http://stream.shabakaty.com:6001/series/ch11/ch11_240.m3u8
+#EXTINF:-1,NAT Crime  LW
+http://stream.shabakaty.com:6001/enter/ch1/ch1_240.m3u8
+#EXTINF:-1,Descovry LW
+http://stream.shabakaty.com:6001/enter/ch2/ch2_240.m3u8
+#EXTINF:-1,Nat Wild LW
+http://stream.shabakaty.com:6001/enter/ch3/ch3_240.m3u8
+#EXTINF:-1,Food LW
+http://stream.shabakaty.com:6001/enter/ch4/ch4_240.m3u8
+#EXTINF:-1,History LW
+http://stream.shabakaty.com:6001/enter/ch5/ch5_240.m3u8
+#EXTINF:-1,E! LW
+http://stream.shabakaty.com:6001/enter/ch6/ch6_240.m3u8
+#EXTINF:-1,TLC LW
+http://stream.shabakaty.com:6001/enter/ch7/ch7_240.m3u8
+#EXTINF:-1,Fatafeat LW
+http://stream.shabakaty.com:6001/enter/ch8/ch8_240.m3u8
+#EXTINF:-1,OSN Comedy LW
+http://stream.shabakaty.com:6001/enter/ch9/ch9_240.m3u8
+#EXTINF:-1,Nat People LW
+http://stream.shabakaty.com:6001/enter/ch10/ch10_240.m3u8
+#EXTINF:-1,Science LW
+http://stream.shabakaty.com:6001/enter/ch11/ch11_240.m3u8
+#EXTINF:-1,AMC LW
+http://stream.shabakaty.com:6001/enter/ch12/ch12_240.m3u8
+#EXTINF:-1,MBC LW
+http://stream.shabakaty.com:6001/enter/ch13/ch13_240.m3u8
+#EXTINF:-1,MBC 4 LW
+http://stream.shabakaty.com:6001/enter/ch14/ch14_240.m3u8
+#EXTINF:-1,Natgeow UAE LW
+http://stream.shabakaty.com:6001/enter/ch15/ch15_240.m3u8
+#EXTINF:-1,MBC Variety LW
+http://stream.shabakaty.com:6001/enter/ch16/ch16_240.m3u8
+#EXTINF:-1,Natgeow LW
+http://stream.shabakaty.com:6001/enter/ch17/ch17_240.m3u8
+#EXTINF:-1,Animal Planet LW
+http://stream.shabakaty.com:6001/enter/ch18/ch18_240.m3u8
+#EXTINF:-1,MBC Msr LW
+http://stream.shabakaty.com:6001/enter/ch19/ch19_240.m3u8
+#EXTINF:-1,DMC LW
+http://stream.shabakaty.com:6001/enter/ch20/ch20_240.m3u8
+#EXTINF:-1,NRJ LW
+http://stream.shabakaty.com:6001/enter/ch21/ch21_240.m3u8
+#EXTINF:-1,Fann LW
+http://stream.shabakaty.com:6001/enter/ch22/ch22_240.m3u8
+#EXTINF:-1,Travel LW
+http://stream.shabakaty.com:6001/enter/ch23/ch23_240.m3u8
+#EXTINF:-1,Alsharqia LW
+http://stream.shabakaty.com:6001/enter/ch24/ch24_240.m3u8
+#EXTINF:-1,MTV LW
+http://stream.shabakaty.com:6001/enter/ch25/ch25_240.m3u8
+#EXTINF:-1,Fashion LW
+http://stream.shabakaty.com:6001/enter/ch26/ch26_240.m3u8
+#EXTINF:-1,Dubai LW
+http://stream.shabakaty.com:6001/enter/ch27/ch27_240.m3u8
+#EXTINF:-1,Sama Dubai LW
+http://stream.shabakaty.com:6001/enter/ch29/ch29_240.m3u8
+#EXTINF:-1,HG TV LW
+http://stream.shabakaty.com:6001/enter/ch30/ch30_240.m3u8
+#EXTINF:-1,Fox Life LW
+http://stream.shabakaty.com:6001/enter/ch31/ch31_240.m3u8
+#EXTINF:-1,Outdoor LW
+http://stream.shabakaty.com:6001/enter/ch32/ch32_240.m3u8
+#EXTINF:-1,Braeam LW
+http://stream.shabakaty.com:6001/kids/ch1/ch1_240.m3u8
+#EXTINF:-1,OSN Kids LW
+http://stream.shabakaty.com:6001/kids/ch2/ch2_240.m3u8
+#EXTINF:-1,Jeem LW
+http://stream.shabakaty.com:6001/kids/ch3/ch3_240.m3u8
+#EXTINF:-1,MBC3 LW
+http://stream.shabakaty.com:6001/kids/ch4/ch4_240.m3u8
+#EXTINF:-1,Nickelodeon LW
+http://stream.shabakaty.com:6001/kids/ch5/ch5_240.m3u8
+#EXTINF:-1,Disney LW
+http://stream.shabakaty.com:6001/kids/ch6/ch6_240.m3u8
+#EXTINF:-1,Bomerang LW
+http://stream.shabakaty.com:6001/kids/ch7/ch7_240.m3u8
+#EXTINF:-1,Fix Foxi LW
+http://stream.shabakaty.com:6001/kids/ch8/ch8_240.m3u8
+#EXTINF:-1,Gulli LW
+http://stream.shabakaty.com:6001/kids/ch9/ch9_240.m3u8
+#EXTINF:-1,Be Junior LW
+http://stream.shabakaty.com:6001/kids/ch10/ch10_240.m3u8
+#EXTINF:-1,BeinSport 1 SD
+http://stream.shabakaty.com:6001/sport/ch1/ch1_360.m3u8
+#EXTINF:-1,BeinSport 2 SD
+http://stream.shabakaty.com:6001/sport/ch2/ch2_360.m3u8
+#EXTINF:-1,BeinSport 3 SD
+http://stream.shabakaty.com:6001/sport/ch3/ch3_360.m3u8
+#EXTINF:-1,BeinSport 4 SD
+http://stream.shabakaty.com:6001/sport/ch4/ch4_360.m3u8
+#EXTINF:-1,BeinSport 5 SD
+http://stream.shabakaty.com:6001/sport/ch5/ch5_360.m3u8
+#EXTINF:-1,BeinSport 6 SD
+http://stream.shabakaty.com:6001/sport/ch6/ch6_360.m3u8
+#EXTINF:-1,BeinSport 7 SD
+http://stream.shabakaty.com:6001/sport/ch7/ch7_360.m3u8
+#EXTINF:-1,BeinSport 8 SD
+http://stream.shabakaty.com:6001/sport/ch8/ch8_360.m3u8
+#EXTINF:-1,BeinSport 9 SD
+http://stream.shabakaty.com:6001/sport/ch9/ch9_360.m3u8
+#EXTINF:-1,BeinSport 10 SD
+http://stream.shabakaty.com:6001/sport/ch10/ch10_360.m3u8
+#EXTINF:-1,BeinSport 11 SD
+http://stream.shabakaty.com:6001/sport/ch11/ch11_360.m3u8
+#EXTINF:-1,BeinSport 12 SD
+http://stream.shabakaty.com:6001/sport/ch12/ch12_360.m3u8
+#EXTINF:-1,BeinSport 13 SD
+http://stream.shabakaty.com:6001/sport/ch13/ch13_360.m3u8
+#EXTINF:-1,OSN WWW SD
+http://stream.shabakaty.com:6001/sport/ch14/ch14_360.m3u8
+#EXTINF:-1,Alkass 1 SD
+http://stream.shabakaty.com:6001/sport/ch15/ch15_360.m3u8
+#EXTINF:-1,Alkass 2 SD
+http://stream.shabakaty.com:6001/sport/ch16/ch16_360.m3u8
+#EXTINF:-1,Alkass 3 SD
+http://stream.shabakaty.com:6001/sport/ch17/ch17_360.m3u8
+#EXTINF:-1,Alkass 4 SD
+http://stream.shabakaty.com:6001/sport/ch18/ch18_260.m3u8
+#EXTINF:-1,Alkass 5 SD
+http://stream.shabakaty.com:6001/sport/ch19/ch19_360.m3u8
+#EXTINF:-1,BeinSport SD
+http://stream.shabakaty.com:6001/sport/ch20/ch20_360.m3u8
+#EXTINF:-1,ADhabi 1 SD
+http://stream.shabakaty.com:6001/sport/ch21/ch21_360.m3u8
+#EXTINF:-1,ADhabi 2 SD
+http://stream.shabakaty.com:6001/sport/ch22/ch22_360.m3u8
+#EXTINF:-1,OSN Movies SD
+http://stream.shabakaty.com:6001/movies/ch1/ch1_360.m3u8
+#EXTINF:-1,OSN Comedy SD
+http://stream.shabakaty.com:6001/movies/ch2/ch2_360.m3u8
+#EXTINF:-1,OSN Yahala SD
+http://stream.shabakaty.com:6001/movies/ch3/ch3_360.m3u8
+#EXTINF:-1,OSN Variety SD
+http://stream.shabakaty.com:6001/movies/ch4/ch4_360.m3u8
+#EXTINF:-1,Star Movies SD
+http://stream.shabakaty.com:6001/movies/ch5/ch5_360.m3u8
+#EXTINF:-1,OSN Thriller SD
+http://stream.shabakaty.com:6001/movies/ch6/ch6_360.m3u8
+#EXTINF:-1,OSN First SD
+http://stream.shabakaty.com:6001/movies/ch7/ch7_360.m3u8
+#EXTINF:-1,Bein Movie 1 SD
+http://stream.shabakaty.com:6001/movies/ch8/ch8_360.m3u8
+#EXTINF:-1,Bein Movie 2 SD
+http://stream.shabakaty.com:6001/movies/ch9/ch9_360.m3u8
+#EXTINF:-1,Bein Movie 3 SD
+http://stream.shabakaty.com:6001/movies/ch10/ch10_360.m3u8
+#EXTINF:-1,Bein Movie 4 SD
+http://stream.shabakaty.com:6001/movies/ch11/ch11_360.m3u8
+#EXTINF:-1,Star World SD
+http://stream.shabakaty.com:6001/movies/ch12/ch12_360.m3u8
+#EXTINF:-1,OSN Movie 1 SD
+http://stream.shabakaty.com:6001/movies/ch13/ch13_360.m3u8
+#EXTINF:-1,OSN Movie 2 SD
+http://stream.shabakaty.com:6001/movies/ch14/ch14_360.m3u8
+#EXTINF:-1,OSN Movie 3 SD
+http://stream.shabakaty.com:6001/movies/ch15/ch15_360.m3u8
+#EXTINF:-1,MBC Max SD
+http://stream.shabakaty.com:6001/movies/ch16/ch16_360.m3u8
+#EXTINF:-1,MBC Action SD
+http://stream.shabakaty.com:6001/movies/ch17/ch17_360.m3u8
+#EXTINF:-1,OSN Movie SD
+http://stream.shabakaty.com:6001/movies/ch18/ch18_360.m3u8
+#EXTINF:-1,MBC2 SD
+http://stream.shabakaty.com:6001/movies/ch19/ch19_360.m3u8
+#EXTINF:-1,OSN Premire SD
+http://stream.shabakaty.com:6001/movies/ch20/ch20_360.m3u8
+#EXTINF:-1,Rotana SD
+http://stream.shabakaty.com:6001/movies/ch21/ch21_360.m3u8
+#EXTINF:-1,OSN Movie SD
+http://stream.shabakaty.com:6001/movies/ch22/ch22_360.m3u8
+#EXTINF:-1,OSN Family SD
+http://stream.shabakaty.com:6001/movies/ch23/ch23_360.m3u8
+#EXTINF:-1,Cinema 1 SD
+http://stream.shabakaty.com:6001/movies/ch24/ch24_360.m3u8
+#EXTINF:-1,Cinema 2 SD
+http://stream.shabakaty.com:6001/movies/ch25/ch25_360.m3u8
+#EXTINF:-1,DMC Drama SD
+http://stream.shabakaty.com:6001/series/ch1/ch1_360.m3u8
+#EXTINF:-1,OSN Alaola SD
+http://stream.shabakaty.com:6001/series/ch2/ch2_360.m3u8
+#EXTINF:-1,MBC Drama SD
+http://stream.shabakaty.com:6001/series/ch3/ch3_360.m3u8
+#EXTINF:-1,Bein Series SD
+http://stream.shabakaty.com:6001/series/ch4/ch4_360.m3u8
+#EXTINF:-1,FOX SD
+http://stream.shabakaty.com:6001/series/ch5/ch5_360.m3u8
+#EXTINF:-1,ART Hekayat SD
+http://stream.shabakaty.com:6001/series/ch6/ch6_360.m3u8
+#EXTINF:-1,Bein Drama 1 SD
+http://stream.shabakaty.com:6001/series/ch7/ch7_360.m3u8
+#EXTINF:-1,Bein Drama 2 SD
+http://stream.shabakaty.com:6001/series/ch8/ch8_360.m3u8
+#EXTINF:-1,OSN First SD
+http://stream.shabakaty.com:6001/series/ch9/ch9_360.m3u8
+#EXTINF:-1,Rotana Drama SD
+http://stream.shabakaty.com:6001/series/ch10/ch10_360.m3u8
+#EXTINF:-1,FX SD
+http://stream.shabakaty.com:6001/series/ch11/ch11_360.m3u8
+#EXTINF:-1,NAT Crime  SD
+http://stream.shabakaty.com:6001/enter/ch1/ch1_360.m3u8
+#EXTINF:-1,Descovry SD
+http://stream.shabakaty.com:6001/enter/ch2/ch2_360.m3u8
+#EXTINF:-1,Nat Wild SD
+http://stream.shabakaty.com:6001/enter/ch3/ch3_360.m3u8
+#EXTINF:-1,Food SD
+http://stream.shabakaty.com:6001/enter/ch4/ch4_360.m3u8
+#EXTINF:-1,History SD
+http://stream.shabakaty.com:6001/enter/ch5/ch5_360.m3u8
+#EXTINF:-1,E! SD
+http://stream.shabakaty.com:6001/enter/ch6/ch6_360.m3u8
+#EXTINF:-1,TLC SD
+http://stream.shabakaty.com:6001/enter/ch7/ch7_360.m3u8
+#EXTINF:-1,Fatafeat SD
+http://stream.shabakaty.com:6001/enter/ch8/ch8_360.m3u8
+#EXTINF:-1,OSN Comedy SD
+http://stream.shabakaty.com:6001/enter/ch9/ch9_360.m3u8
+#EXTINF:-1,Nat People SD
+http://stream.shabakaty.com:6001/enter/ch10/ch10_360.m3u8
+#EXTINF:-1,Science SD
+http://stream.shabakaty.com:6001/enter/ch11/ch11_360.m3u8
+#EXTINF:-1,AMC SD
+http://stream.shabakaty.com:6001/enter/ch12/ch12_360.m3u8
+#EXTINF:-1,MBC SD
+http://stream.shabakaty.com:6001/enter/ch13/ch13_360.m3u8
+#EXTINF:-1,MBC 4 SD
+http://stream.shabakaty.com:6001/enter/ch14/ch14_360.m3u8
+#EXTINF:-1,Natgeow UAE SD
+http://stream.shabakaty.com:6001/enter/ch15/ch15_360.m3u8
+#EXTINF:-1,MBC Variety SD
+http://stream.shabakaty.com:6001/enter/ch16/ch16_360.m3u8
+#EXTINF:-1,Natgeow SD
+http://stream.shabakaty.com:6001/enter/ch17/ch17_360.m3u8
+#EXTINF:-1,Animal Planet SD
+http://stream.shabakaty.com:6001/enter/ch18/ch18_360.m3u8
+#EXTINF:-1,MBC Msr SD
+http://stream.shabakaty.com:6001/enter/ch19/ch19_360.m3u8
+#EXTINF:-1,DMC SD
+http://stream.shabakaty.com:6001/enter/ch20/ch20_360.m3u8
+#EXTINF:-1,NRJ SD
+http://stream.shabakaty.com:6001/enter/ch21/ch21_360.m3u8
+#EXTINF:-1,Fann SD
+http://stream.shabakaty.com:6001/enter/ch22/ch22_360.m3u8
+#EXTINF:-1,Travel SD
+http://stream.shabakaty.com:6001/enter/ch23/ch23_360.m3u8
+#EXTINF:-1,Alsharqia SD
+http://stream.shabakaty.com:6001/enter/ch24/ch24_360.m3u8
+#EXTINF:-1,MTV SD
+http://stream.shabakaty.com:6001/enter/ch25/ch25_360.m3u8
+#EXTINF:-1,Fashion SD
+http://stream.shabakaty.com:6001/enter/ch26/ch26_360.m3u8
+#EXTINF:-1,Dubai SD
+http://stream.shabakaty.com:6001/enter/ch27/ch27_360.m3u8
+#EXTINF:-1,Sama Dubai SD
+http://stream.shabakaty.com:6001/enter/ch29/ch29_360.m3u8
+#EXTINF:-1,HG TV SD
+http://stream.shabakaty.com:6001/enter/ch30/ch30_360.m3u8
+#EXTINF:-1,Fox Life SD
+http://stream.shabakaty.com:6001/enter/ch31/ch31_360.m3u8
+#EXTINF:-1,Outdoor SD
+http://stream.shabakaty.com:6001/enter/ch32/ch32_360.m3u8
+#EXTINF:-1,Braeam SD
+http://stream.shabakaty.com:6001/kids/ch1/ch1_360.m3u8
+#EXTINF:-1,OSN Kids SD
+http://stream.shabakaty.com:6001/kids/ch2/ch2_360.m3u8
+#EXTINF:-1,Jeem SD
+http://stream.shabakaty.com:6001/kids/ch3/ch3_360.m3u8
+#EXTINF:-1,MBC3 SD
+http://stream.shabakaty.com:6001/kids/ch4/ch4_360.m3u8
+#EXTINF:-1,Nickelodeon SD
+http://stream.shabakaty.com:6001/kids/ch5/ch5_360.m3u8
+#EXTINF:-1,Disney SD
+http://stream.shabakaty.com:6001/kids/ch6/ch6_360.m3u8
+#EXTINF:-1,Bomerang SD
+http://stream.shabakaty.com:6001/kids/ch7/ch7_360.m3u8
+#EXTINF:-1,Fix Foxi SD
+http://stream.shabakaty.com:6001/kids/ch8/ch8_360.m3u8
+#EXTINF:-1,Gulli SD
+http://stream.shabakaty.com:6001/kids/ch9/ch9_360.m3u8
+#EXTINF:-1,Be Junior SD
+http://stream.shabakaty.com:6001/kids/ch10/ch10_360.m3u8
+#EXTINF:-1,BeinSport 1 HD
+http://stream.shabakaty.com:6001/sport/ch1/ch1_720.m3u8
+#EXTINF:-1,BeinSport 2 HD
+http://stream.shabakaty.com:6001/sport/ch2/ch2_720.m3u8
+#EXTINF:-1,BeinSport 3 HD
+http://stream.shabakaty.com:6001/sport/ch3/ch3_720.m3u8
+#EXTINF:-1,BeinSport 4 HD
+http://stream.shabakaty.com:6001/sport/ch4/ch4_720.m3u8
+#EXTINF:-1,BeinSport 5 HD
+http://stream.shabakaty.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:-1,BeinSport 6 HD
+http://stream.shabakaty.com:6001/sport/ch6/ch6_720.m3u8
+#EXTINF:-1,BeinSport 7 HD
+http://stream.shabakaty.com:6001/sport/ch7/ch7_720.m3u8
+#EXTINF:-1,BeinSport 8 HD
+http://stream.shabakaty.com:6001/sport/ch8/ch8_720.m3u8
+#EXTINF:-1,BeinSport 9 HD
+http://stream.shabakaty.com:6001/sport/ch9/ch9_720.m3u8
+#EXTINF:-1,BeinSport 10 HD
+http://stream.shabakaty.com:6001/sport/ch10/ch10_720.m3u8
+#EXTINF:-1,BeinSport 11 HD
+http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
+#EXTINF:-1,BeinSport 12 HD
+http://stream.shabakaty.com:6001/sport/ch12/ch12_720.m3u8
+#EXTINF:-1,BeinSport 13 HD
+http://stream.shabakaty.com:6001/sport/ch13/ch13_720.m3u8
+#EXTINF:-1,OSN WWW HD
+http://stream.shabakaty.com:6001/sport/ch14/ch14_720.m3u8
+#EXTINF:-1,Alkass 1 HD
+http://stream.shabakaty.com:6001/sport/ch15/ch15_720.m3u8
+#EXTINF:-1,Alkass 2 HD
+http://stream.shabakaty.com:6001/sport/ch16/ch16_720.m3u8
+#EXTINF:-1,Alkass 3 HD
+http://stream.shabakaty.com:6001/sport/ch17/ch17_720.m3u8
+#EXTINF:-1,Alkass 4 HD
+http://stream.shabakaty.com:6001/sport/ch18/ch18_720.m3u8
+#EXTINF:-1,Alkass 5 HD
+http://stream.shabakaty.com:6001/sport/ch19/ch19_720.m3u8
+#EXTINF:-1,BeinSport HD
+http://stream.shabakaty.com:6001/sport/ch20/ch20_720.m3u8
+#EXTINF:-1,ADhabi 1 HD
+http://stream.shabakaty.com:6001/sport/ch21/ch21_720.m3u8
+#EXTINF:-1,ADhabi 2 HD
+http://stream.shabakaty.com:6001/sport/ch22/ch22_720.m3u8
+#EXTINF:-1,OSN Movies HD
+http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
+#EXTINF:-1,OSN Comedy HD
+http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
+#EXTINF:-1,OSN Yahala HD
+http://stream.shabakaty.com:6001/movies/ch3/ch3_720.m3u8
+#EXTINF:-1,OSN Variety HD
+http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
+#EXTINF:-1,Star Movies HD
+http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
+#EXTINF:-1,OSN Thriller HD
+http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
+#EXTINF:-1,OSN First HD
+http://stream.shabakaty.com:6001/movies/ch7/ch7_720.m3u8
+#EXTINF:-1,Bein Movie 1 HD
+http://stream.shabakaty.com:6001/movies/ch8/ch8_720.m3u8
+#EXTINF:-1,Bein Movie 2 HD
+http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
+#EXTINF:-1,Bein Movie 3 HD
+http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
+#EXTINF:-1,Bein Movie 4 HD
+http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
+#EXTINF:-1,Star World HD
+http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
+#EXTINF:-1,OSN Movie 1 HD
+http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
+#EXTINF:-1,OSN Movie 2 HD
+http://stream.shabakaty.com:6001/movies/ch14/ch14_720.m3u8
+#EXTINF:-1,OSN Movie 3 HD
+http://stream.shabakaty.com:6001/movies/ch15/ch15_720.m3u8
+#EXTINF:-1,MBC Max HD
+http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
+#EXTINF:-1,MBC Action HD
+http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
+#EXTINF:-1,OSN Movie HD
+http://stream.shabakaty.com:6001/movies/ch18/ch18_720.m3u8
+#EXTINF:-1,MBC2 HD
+http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
+#EXTINF:-1,OSN Premire HD
+http://stream.shabakaty.com:6001/movies/ch20/ch20_720.m3u8
+#EXTINF:-1,Rotana HD
+http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
+#EXTINF:-1,OSN Movie HD
+http://stream.shabakaty.com:6001/movies/ch22/ch22_720.m3u8
+#EXTINF:-1,OSN Family HD
+http://stream.shabakaty.com:6001/movies/ch23/ch23_720.m3u8
+#EXTINF:-1,Cinema 1 HD
+http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
+#EXTINF:-1,Cinema 2 HD
+http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
+#EXTINF:-1,DMC Drama HD
+http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
+#EXTINF:-1,OSN Alaola HD
+http://stream.shabakaty.com:6001/series/ch2/ch2_720.m3u8
+#EXTINF:-1,MBC Drama HD
+http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
+#EXTINF:-1,Bein Series HD
+http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
+#EXTINF:-1,FOX HD
+http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
+#EXTINF:-1,ART Hekayat HD
+http://stream.shabakaty.com:6001/series/ch6/ch6_360.m3u8
+#EXTINF:-1,Bein Drama 1 HD
+http://stream.shabakaty.com:6001/series/ch7/ch7_720.m3u8
+#EXTINF:-1,Bein Drama 2 HD
+http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
+#EXTINF:-1,OSN First HD
+http://stream.shabakaty.com:6001/series/ch9/ch9_720.m3u8
+#EXTINF:-1,Rotana Drama HD
+http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
+#EXTINF:-1,FX HD
+http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
+#EXTINF:-1,NAT Crime  HD
+http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
+#EXTINF:-1,Descovry HD
+http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
+#EXTINF:-1,Nat Wild HD
+http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
+#EXTINF:-1,Food HD
+http://stream.shabakaty.com:6001/enter/ch4/ch4_720.m3u8
+#EXTINF:-1,History HD
+http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
+#EXTINF:-1,E! HD
+http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
+#EXTINF:-1,TLC HD
+http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
+#EXTINF:-1,Fatafeat HD
+http://stream.shabakaty.com:6001/enter/ch8/ch8_720.m3u8
+#EXTINF:-1,OSN Comedy HD
+http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
+#EXTINF:-1,Nat People HD
+http://stream.shabakaty.com:6001/enter/ch10/ch10_720.m3u8
+#EXTINF:-1,Science HD
+http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
+#EXTINF:-1,AMC HD
+http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
+#EXTINF:-1,MBC HD
+http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
+#EXTINF:-1,MBC 4 HD
+http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
+#EXTINF:-1,Natgeow UAE HD
+http://stream.shabakaty.com:6001/enter/ch15/ch15_720.m3u8
+#EXTINF:-1,MBC Variety HD
+http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
+#EXTINF:-1,Natgeow HD
+http://stream.shabakaty.com:6001/enter/ch17/ch17_720.m3u8
+#EXTINF:-1,Animal Planet HD
+http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
+#EXTINF:-1,MBC Msr HD
+http://stream.shabakaty.com:6001/enter/ch19/ch19_720.m3u8
+#EXTINF:-1,DMC HD
+http://stream.shabakaty.com:6001/enter/ch20/ch20_720.m3u8
+#EXTINF:-1,NRJ HD
+http://stream.shabakaty.com:6001/enter/ch21/ch21_720.m3u8
+#EXTINF:-1,Fann HD
+http://stream.shabakaty.com:6001/enter/ch22/ch22_720.m3u8
+#EXTINF:-1,Travel HD
+http://stream.shabakaty.com:6001/enter/ch23/ch23_720.m3u8
+#EXTINF:-1,Alsharqia HD
+http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
+#EXTINF:-1,MTV HD
+http://stream.shabakaty.com:6001/enter/ch25/ch25_720.m3u8
+#EXTINF:-1,Fashion HD
+http://stream.shabakaty.com:6001/enter/ch26/ch26_720.m3u8
+#EXTINF:-1,Dubai HD
+http://stream.shabakaty.com:6001/enter/ch27/ch27_720.m3u8
+#EXTINF:-1,Sama Dubai HD
+http://stream.shabakaty.com:6001/enter/ch29/ch29_720.m3u8
+#EXTINF:-1,HG TV HD
+http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
+#EXTINF:-1,Fox Life HD
+http://stream.shabakaty.com:6001/enter/ch31/ch31_720.m3u8
+#EXTINF:-1,Outdoor HD
+http://stream.shabakaty.com:6001/enter/ch32/ch32_720.m3u8
+#EXTINF:-1,Braeam HD
+http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
+#EXTINF:-1,OSN Kids HD
+http://stream.shabakaty.com:6001/kids/ch2/ch2_720.m3u8
+#EXTINF:-1,Jeem HD
+http://stream.shabakaty.com:6001/kids/ch3/ch3_720.m3u8
+#EXTINF:-1,MBC3 HD
+http://stream.shabakaty.com:6001/kids/ch4/ch4_720.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://stream.shabakaty.com:6001/kids/ch5/ch5_720.m3u8
+#EXTINF:-1,Disney HD
+http://stream.shabakaty.com:6001/kids/ch6/ch6_720.m3u8
+#EXTINF:-1,Bomerang HD
+http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
+#EXTINF:-1,Fix Foxi HD
+http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
+#EXTINF:-1,Gulli HD
+http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
+#EXTINF:-1,Be Junior HD
+http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
+#EXTINF:-1,BeinSport 1 FHD
+http://stream.shabakaty.com:6001/sport/ch1/ch1_1080.m3u8
+#EXTINF:-1,BeinSport 2 FHD
+http://stream.shabakaty.com:6001/sport/ch2/ch2_1080.m3u8
+#EXTINF:-1,BeinSport 3 FHD
+http://stream.shabakaty.com:6001/sport/ch3/ch3_1080.m3u8 
+
+#EXTINF:-2 group-title="1.Sport",BeinSport 4 FHD
+http://stream.shabakaty.com:6001/sport/ch4/ch4_1080.m3u8
+#EXTINF:-2 group-title="1.Sport",WWW LW
+http://stream.shabakaty.com:6001/enter/ch28/ch28_240.m3u8
+#EXTINF:-2 group-title="1.Sport",WWW SD
+http://stream.shabakaty.com:6001/enter/ch28/ch28_360.m3u8
+#EXTINF:-2 group-title="1.Sport",WWW HD
+http://stream.shabakaty.com:6001/enter/ch28/ch28_720.m3u8
+
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="2.News",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:iptvcat.com
